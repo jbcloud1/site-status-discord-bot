@@ -11,8 +11,9 @@ class data:
     public_update_channel_id = 662954482115543050
 
     #Your URL To Check
-    my_url = "https://host-info.net"
-
+    my_url = "https://eaglecloud.fr"
+    my_url = "https://r5.directdns.com"
+    
     #Your Bots Token - For security reasons, use "token.txt"!!!
     try:
         with open("token.txt", "r") as token:
@@ -23,7 +24,7 @@ class data:
         exit(0)
 
     #Bots Name To Display
-    bot_name = "Host-Info Uptime Client"
+    bot_name = "EAGLECLOUD status bot"
 
     #Thumbnail to display 
     thumbnail_url = "https://host-info.net/img/mag.png"
