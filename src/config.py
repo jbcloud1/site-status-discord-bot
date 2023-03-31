@@ -27,7 +27,7 @@ class data:
     bot_name = "EAGLECLOUD status bot"
 
     #Thumbnail to display 
-    thumbnail_url = "https://host-info.net/img/mag.png"
+    thumbnail_url = "http://eaglecloud.fr/img/logo/logo.png"
     
     #Purge Channel on update
     #Either "True" or "False"
